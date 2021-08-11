@@ -1,0 +1,37 @@
+body{
+    background-color: burlywood;
+}
+table
+{
+   
+background-color: darkgray;
+border-radius: 1em;
+padding:10px;
+height: 380px;
+width: 400px;
+margin: auto;
+background-color: cyan;
+}
+.display-box {
+font-family: 'Orbitron';
+background-color: cadetblue;
+border: solid black 0.5px;
+color: black;
+border-radius: 5px;
+width: 90%;
+height: 65%;
+}
+.button {
+font-family: 'Orbitron';
+background-color: darkorchid;
+color: white;
+border: solid black 0.5px;
+width: 100%;
+border-radius: 5px;
+height: 70%;
+outline: none;
+}
+.button:active {
+    background-color: cornsilk;
+          }
+
